@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="8dp"
+    android:paddingRight="6dp"
+    android:paddingTop="7dp"
+    android:paddingBottom="7dp"
+    android:id="@+id/parentView">
+
+
+    <ImageButton
+        android:id="@+id/mark"
+        android:layout_width="40dip"
+        android:layout_height="40dip"
+        android:src="@drawable/empty_mark"
+        android:layout_gravity="center"
+        android:background="@color/transparent"
+        android:layout_weight="1" />
+
+    <EditText
+        android:id="@+id/edit_name"
+        android:layout_height="wrap_content"
+        android:layout_width="0dp"
+        android:layout_weight="27"
+        android:paddingRight="8dp"
+        android:paddingLeft="8dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:hint="Name"
+        android:visibility="gone"
+        android:layout_gravity="center"
+        android:selectAllOnFocus="true"
+       />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_height="wrap_content"
+        android:layout_width="0dp"
+        android:layout_weight="27"
+        android:paddingRight="8dp"
+        android:paddingLeft="8dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:text=""
+        android:layout_gravity="center"
+        android:editable="false"
+       />
+
+    <at.markushi.ui.CircleButton
+        android:id="@+id/edit_name_button"
+        android:layout_width="56dip"
+        android:layout_height="56dip"
+        android:layout_weight="1"
+        android:src="@drawable/edit_name"
+        app:cb_color="@color/button_color"
+        app:cb_pressedRingWidth="8dip"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        />
+
+
+    <at.markushi.ui.CircleButton
+        android:id="@+id/test_device_button"
+        android:layout_width="56dip"
+        android:layout_height="56dip"
+        android:layout_weight="1"
+        android:src="@drawable/ring_test"
+        app:cb_color="@color/button_color"
+        app:cb_pressedRingWidth="8dip"
+        android:layout_gravity="center"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        />
+
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="button_color">#eee58c57</color>
+   <color name="action_bar_color">#d3562a</color>
+   <color name="status_bar_color">#ff9c4121</color>
+   <color name="blee_orange">#eee58c57</color>
+   <color name="transparent">#00000000</color>
+   <color name="card_backgroundExpand">#eaeaea</color>
+</resources>

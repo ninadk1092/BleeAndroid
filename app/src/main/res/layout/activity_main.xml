@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingTop="2dp"
+        android:padding="2dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="List of Devices Connected to hotspot. Go to settings on Top-Right to refresh"
+            android:padding="12dp"
+            android:visibility="gone">
+        </TextView>
+
+
+        <it.gmariotti.cardslib.library.view.CardListView
+            android:id="@+id/device_list"
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            card:list_card_layout_resourceID="@layout/list_card_layout"
+            android:layout_marginBottom="1dp" />
+
+
+    <!--
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/startserver"
+        android:text="StartServer"
+        android:visibility="visible"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center_horizontal"/>
+    -->
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/action_bar_color"
+        android:orientation="horizontal"
+        android:paddingLeft="15dp"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:paddingRight="15dp"
+        android:visibility="gone"
+        android:id="@+id/create_group_layout">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="8"
+            android:layout_marginLeft="2dp"
+            android:hint=" Enter Group Name"
+            android:paddingTop="5dp"
+            android:paddingLeft="2dp"
+            android:paddingBottom="5dp"
+            android:textColorHint="@color/action_bar_color"
+            android:id="@+id/group_name"
+            android:background="#ffffff"
+            android:textColor="@color/action_bar_color"
+            android:layout_gravity="center|center_vertical"
+            />
+
+
+        <ImageButton
+            android:id="@+id/create_group_button"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:src="@drawable/save_name"
+            android:background="@color/transparent"
+            android:layout_gravity="center|center_vertical"
+            android:layout_weight="1"
+            android:adjustViewBounds="false" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:paddingLeft="15dp"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:paddingRight="15dp"
+        android:background="@color/action_bar_color"
+        android:id="@+id/menu_panel_layout"
+        >
+
+
+        <ImageButton
+            android:id="@+id/refresh_list_button"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:src="@drawable/refresh_icon"
+            android:layout_gravity="center"
+            android:background="@color/transparent"
+            android:layout_weight="1" />
+
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+
+        <ImageButton
+            android:id="@+id/group_menu_button"
+            android:layout_width="50dip"
+            android:layout_height="50dip"
+            android:src="@drawable/group_menu_icon"
+            android:background="@color/transparent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:adjustViewBounds="false" />
+
+
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/avinashkulkarni/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-core/3.1.0/f3f9629b068554d8513a2aaf34418171bf430851/lib-core-3.1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/lib-core-3.1.0-2b4fa624bc55c91bd67ebb50cb93be117d7a90e9.jar" />
+    </item>
+    <item
+        jar="/Users/avinashkulkarni/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-manipulation/3.1.0/63737e512fcd9e0ebe9bcd0bb375c2dded74116f/lib-manipulation-3.1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
+        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/lib-manipulation-3.1.0-faf709407ce848c089b3caf19d943a001db074d3.jar" />
+    </item>
+    <item
+        jar="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d851788f6c23d14aa5fa8fbfd6d1b17725ad44c5">
+        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-83e586897d14eab2b78d39e67260d22817132b64.jar" />
+    </item>
+    <item
+        jar="/Users/avinashkulkarni/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/library-2.4.0-cd979fd68a264f36b3f82fe066fb67c5b171d02f.jar" />
+    </item>
+    <item
+        jar="/Users/avinashkulkarni/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-497b77a9a909470d1302b3705fd2b2977f57eeb3.jar" />
+    </item>
+    <item
+        jar="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-1464c70ea4d485dd9308edf02613d5f46b1f8060.jar" />
+    </item>
+    <item
+        jar="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7d2525cba8ed61fff102977caed964fc22061e34">
+        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-c4cc7168cb887ae595f9b1a5e728f2b220104d5c.jar" />
+    </item>
+    <item
+        jar="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d6467247ced8a5d51f8ff73a6595d517eddba6">
+        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-8aa152b167f588c0e5567f633941232fdac33cfb.jar" />
+    </item>
+    <item
+        jar="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-92e20e3dfa2074b1b29e272fab10f2986fd27784.jar" />
+    </item>
+    <item
+        jar="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/exploded-aar/com.github.markushi/circlebutton/1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ebe3b1f14fa79ba3cd1588acda4e6517ee9fe611">
+        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-e29a21c03930e1a0631690315f77e76d0c1393ef.jar" />
+    </item>
+    <item
+        jar="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-59867834de0b98b433786cabbfcb472505662854.jar" />
+    </item>
+
+</items>
