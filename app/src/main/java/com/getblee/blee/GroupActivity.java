@@ -1,13 +1,15 @@
 package com.getblee.blee;
 
-import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.support.v7.app.ActionBar;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.getblee.blee.entity.ClientScanResult;
+import com.getblee.blee.entity.GroupCard;
+import com.getblee.blee.util.PreferencesAccesser;
 import com.nhaarman.listviewanimations.appearance.AnimationAdapter;
 import com.nhaarman.listviewanimations.appearance.simple.SwingBottomInAnimationAdapter;
 
@@ -22,7 +24,7 @@ import it.gmariotti.cardslib.library.internal.CardArrayAdapter;
 import it.gmariotti.cardslib.library.view.CardListView;
 
 
-public class GroupActivity extends ActionBarActivity {
+public class GroupActivity extends AppCompatActivity {
 
 
 

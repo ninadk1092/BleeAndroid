@@ -1,8 +1,10 @@
-package com.getblee.blee;
+package com.getblee.blee.listener;
 
 /**
  * Created by malhar on 22/4/15.
  */
+
+import com.getblee.blee.entity.ClientScanResult;
 
 import java.util.ArrayList;
 

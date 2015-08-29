@@ -2,81 +2,137 @@
 <items version="2" >
 
     <item
-        jar="/Users/avinashkulkarni/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-core/3.1.0/f3f9629b068554d8513a2aaf34418171bf430851/lib-core-3.1.0.jar"
+        jar="/home/ceroroot/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
         jumboMode="false"
-        revision="21.1.1"
-        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
-        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/lib-core-3.1.0-2b4fa624bc55c91bd67ebb50cb93be117d7a90e9.jar" />
+        revision="23.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/pre-dexed/debug/library-2.4.0-c8f346605d7d86d735bc3cc834200263a8e5192f.jar" />
     </item>
     <item
-        jar="/Users/avinashkulkarni/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-manipulation/3.1.0/63737e512fcd9e0ebe9bcd0bb375c2dded74116f/lib-manipulation-3.1.0.jar"
+        jar="/home/ceroroot/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-manipulation/3.1.0/63737e512fcd9e0ebe9bcd0bb375c2dded74116f/lib-manipulation-3.1.0.jar"
         jumboMode="false"
-        revision="21.1.1"
+        revision="23.0.0"
         sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
-        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/lib-manipulation-3.1.0-faf709407ce848c089b3caf19d943a001db074d3.jar" />
+        <dex dex="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/pre-dexed/debug/lib-manipulation-3.1.0-ed3e94d12a358daaaa7978ea863d9a2143e99860.jar" />
     </item>
     <item
-        jar="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.0.1/classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="d851788f6c23d14aa5fa8fbfd6d1b17725ad44c5">
-        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-83e586897d14eab2b78d39e67260d22817132b64.jar" />
-    </item>
-    <item
-        jar="/Users/avinashkulkarni/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jar="/home/ceroroot/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/library-2.4.0-cd979fd68a264f36b3f82fe066fb67c5b171d02f.jar" />
+        <dex dex="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/pre-dexed/debug/library-2.4.0-c8f346605d7d86d735bc3cc834200263a8e5192f.jar" />
     </item>
     <item
-        jar="/Users/avinashkulkarni/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jar="/home/ceroroot/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-manipulation/3.1.0/63737e512fcd9e0ebe9bcd0bb375c2dded74116f/lib-manipulation-3.1.0.jar"
         jumboMode="false"
         revision="21.1.1"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-497b77a9a909470d1302b3705fd2b2977f57eeb3.jar" />
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
+        <dex dex="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/pre-dexed/debug/lib-manipulation-3.1.0-ed3e94d12a358daaaa7978ea863d9a2143e99860.jar" />
     </item>
     <item
-        jar="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-1464c70ea4d485dd9308edf02613d5f46b1f8060.jar" />
-    </item>
-    <item
-        jar="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.1"
-        sha1="7d2525cba8ed61fff102977caed964fc22061e34">
-        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-c4cc7168cb887ae595f9b1a5e728f2b220104d5c.jar" />
-    </item>
-    <item
-        jar="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.0.1/classes.jar"
+        jar="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.0.1/classes.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="81d6467247ced8a5d51f8ff73a6595d517eddba6">
-        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-8aa152b167f588c0e5567f633941232fdac33cfb.jar" />
+        <dex dex="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-751ac3e23f3e7bba61152e546d4c03e824304257.jar" />
     </item>
     <item
-        jar="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jar="/home/ceroroot/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-7cfb9a6b64c2fc26e061a4222e825df0caf46151.jar" />
+    </item>
+    <item
+        jar="/home/ceroroot/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-core/3.1.0/f3f9629b068554d8513a2aaf34418171bf430851/lib-core-3.1.0.jar"
         jumboMode="false"
         revision="21.1.1"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-92e20e3dfa2074b1b29e272fab10f2986fd27784.jar" />
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/pre-dexed/debug/lib-core-3.1.0-7bcfe3b929669ffab7383c2ed4fcf0eb262bfebf.jar" />
     </item>
     <item
-        jar="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/exploded-aar/com.github.markushi/circlebutton/1.1/classes.jar"
+        jar="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/exploded-aar/com.github.markushi/circlebutton/1.1/classes.jar"
         jumboMode="false"
         revision="21.1.1"
         sha1="ebe3b1f14fa79ba3cd1588acda4e6517ee9fe611">
-        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-e29a21c03930e1a0631690315f77e76d0c1393ef.jar" />
+        <dex dex="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-006a6122605e2f05af8ff0f10bbdef314a7de12e.jar" />
     </item>
     <item
-        jar="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jar="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-6cbb03b269332178b73e6a5269bcec072aace871.jar" />
+    </item>
+    <item
+        jar="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/exploded-aar/BleeAndroid/circular_progress_bar/unspecified/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f1fe4fadad3cc39102d232b36671674fb8409a75">
+        <dex dex="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-d458faf38aaa52338add9d8af133e8499c650b71.jar" />
+    </item>
+    <item
+        jar="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.1"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/Users/avinashkulkarni/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-59867834de0b98b433786cabbfcb472505662854.jar" />
+        sha1="7d2525cba8ed61fff102977caed964fc22061e34">
+        <dex dex="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-ba37e8ee91b4dc2bac571ea89957af83a756bd1c.jar" />
+    </item>
+    <item
+        jar="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d851788f6c23d14aa5fa8fbfd6d1b17725ad44c5">
+        <dex dex="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-d37cc0d3478ef83dfac4f0684121e81f53b4c576.jar" />
+    </item>
+    <item
+        jar="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/exploded-aar/com.github.markushi/circlebutton/1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ebe3b1f14fa79ba3cd1588acda4e6517ee9fe611">
+        <dex dex="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-006a6122605e2f05af8ff0f10bbdef314a7de12e.jar" />
+    </item>
+    <item
+        jar="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-11afd7df998e7b2e6b2f86a6466c9d9273307c61.jar" />
+    </item>
+    <item
+        jar="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.0.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="81d6467247ced8a5d51f8ff73a6595d517eddba6">
+        <dex dex="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-751ac3e23f3e7bba61152e546d4c03e824304257.jar" />
+    </item>
+    <item
+        jar="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7d2525cba8ed61fff102977caed964fc22061e34">
+        <dex dex="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-ba37e8ee91b4dc2bac571ea89957af83a756bd1c.jar" />
+    </item>
+    <item
+        jar="/home/ceroroot/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/lib-core/3.1.0/f3f9629b068554d8513a2aaf34418171bf430851/lib-core-3.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/pre-dexed/debug/lib-core-3.1.0-7bcfe3b929669ffab7383c2ed4fcf0eb262bfebf.jar" />
+    </item>
+    <item
+        jar="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-025cdc06d8da3c11309242decdc3ccf5406eed88.jar" />
+    </item>
+    <item
+        jar="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-cards/2.0.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d851788f6c23d14aa5fa8fbfd6d1b17725ad44c5">
+        <dex dex="/home/ceroroot/AndroidStudioProjects/BleeAndroid/app/build/intermediates/pre-dexed/debug/classes-d37cc0d3478ef83dfac4f0684121e81f53b4c576.jar" />
     </item>
 
 </items>

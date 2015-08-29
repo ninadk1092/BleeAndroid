@@ -3,7 +3,7 @@ package com.getblee.blee;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBar;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -17,6 +17,12 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 
+import com.getblee.blee.entity.ClientScanResult;
+import com.getblee.blee.entity.CustomExpandCard;
+import com.getblee.blee.entity.DeviceCard;
+import com.getblee.blee.listener.FinishScanListener;
+import com.getblee.blee.manager.WifiApManager;
+import com.getblee.blee.util.PreferencesAccesser;
 import com.nhaarman.listviewanimations.appearance.AnimationAdapter;
 import com.nhaarman.listviewanimations.appearance.simple.SwingBottomInAnimationAdapter;
 
@@ -32,7 +38,7 @@ import it.gmariotti.cardslib.library.internal.CardArrayAdapter;
 import it.gmariotti.cardslib.library.view.CardListView;
 
 
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends AppCompatActivity {
     public static int selectionFlag=0;
     TextView textView1;
     WifiApManager wifiApManager;

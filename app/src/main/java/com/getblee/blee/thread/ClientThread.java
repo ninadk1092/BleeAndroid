@@ -1,4 +1,4 @@
-package com.getblee.blee;
+package com.getblee.blee.thread;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

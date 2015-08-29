@@ -1,4 +1,4 @@
-package com.getblee.blee;
+package com.getblee.blee.entity;
 
 import android.content.Context;
 import android.util.Log;
@@ -9,6 +9,11 @@ import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.getblee.blee.MainActivity;
+import com.getblee.blee.R;
+import com.getblee.blee.thread.ClientThread;
+import com.getblee.blee.util.PreferencesAccesser;
 
 import at.markushi.ui.CircleButton;
 import it.gmariotti.cardslib.library.internal.Card;

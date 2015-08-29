@@ -1,4 +1,4 @@
-package com.getblee.blee;
+package com.getblee.blee.entity;
 
 
 import android.content.Context;
@@ -6,6 +6,8 @@ import android.text.method.LinkMovementMethod;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+
+import com.getblee.blee.R;
 
 import it.gmariotti.cardslib.library.internal.CardExpand;
 

@@ -2,4 +2,70 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+
+<dimen name="width">750dp</dimen>
+    <dimen name="height">750dp</dimen>
+    <dimen name="hlv_image_height">120dp</dimen>
+    <!-- Per the design guidelines, navigation drawers should be between 240dp and 320dp:
+         https://developer.android.com/design/patterns/navigation-drawer.html -->
+    <dimen name="navigation_drawer_width">240dp</dimen>
+    <dimen name="circular_progress_size">150dip</dimen>
+    <dimen name="test_button_size">50dip</dimen>
+    <dimen name="tempo_button_size">70dip</dimen>
+
+
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">12dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_xlarge">20dp</dimen>
+
+    <dimen name="drawer_width">300dp</dimen>
+    <dimen name="range_name_max_width">150dp</dimen>
+    <dimen name="range_value_max_width">150dp</dimen>
+    <dimen name="twice_drawer_width">600dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="devices_list_width">250dp</dimen>
+    <dimen name="standard_edt_width">400dp</dimen>
+
+    <dimen name="icon_size_small">30dp</dimen>
+    <dimen name="icon_size_medium">50dp</dimen>
+    <dimen name="icon_size_large">60dp</dimen>
+    <dimen name="icon_size_xlarge">70dp</dimen>
+
+    <dimen name="margin_small">3dp</dimen>
+    <dimen name="margin_medium">5dp</dimen>
+    <dimen name="margin_large">8dp</dimen>
+    <dimen name="margin_xlarge">10dp</dimen>
+
+    <dimen name="text_very_small">12dp</dimen>
+    <dimen name="text_small">15dp</dimen>
+    <dimen name="text_medium">18dp</dimen>
+    <dimen name="text_large">23dp</dimen>
+    <dimen name="text_xlarge">27dp</dimen>
+    <dimen name="text_big">33dp</dimen>
+    <dimen name="text_very_big">40dp</dimen>
+
+    <dimen name="height_very_small">30dp</dimen>
+    <dimen name="height_small">40dp</dimen>
+    <dimen name="height_medium">50dp</dimen>
+    <dimen name="height_large">60dp</dimen>
+    <dimen name="height_xlarge">70dp</dimen>
+
+    <dimen name="text_width_very_small">110dp</dimen>
+    <dimen name="text_width_small">150dp</dimen>
+    <dimen name="text_width_medium">200dp</dimen>
+    <dimen name="text_width_large">250dp</dimen>
+    <dimen name="text_width_xlarge">300dp</dimen>
+    <dimen name="text_width_big">350dp</dimen>
+    <dimen name="text_width_very_big">400dp</dimen>
+
+
+    <dimen name="line_small">1dp</dimen>
+    <dimen name="line_medium">2dp</dimen>
+    <dimen name="line_large">3dp</dimen>
+    <dimen name="line_xlarge">4dp</dimen>
+
+    <dimen name="rec_layer_1">140dp</dimen>
+    <dimen name="rec_layer_2">155dp</dimen>
+    <dimen name="rec_layer_3">170dp</dimen>
 </resources>

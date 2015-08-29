@@ -1,4 +1,4 @@
-package com.getblee.blee;
+package com.getblee.blee.entity;
 
 /**
  * Created by malhar on 22/4/15.
