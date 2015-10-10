@@ -1,4 +1,4 @@
-package com.getblee.blee;
+package com.getblee.blee.util;
 
 import android.content.Context;
 import android.content.SharedPreferences;

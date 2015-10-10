@@ -1,4 +1,4 @@
-package com.getblee.blee;
+package com.getblee.blee.manager;
 
 /**
  * Created by malhar on 22/4/15.
@@ -8,6 +8,10 @@ import android.net.wifi.WifiConfiguration;
 import android.net.wifi.WifiManager;
 import android.os.Handler;
 import android.util.Log;
+
+import com.getblee.blee.entity.ClientScanResult;
+import com.getblee.blee.listener.FinishScanListener;
+import com.getblee.blee.util.WIFI_AP_STATE;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -51,7 +55,7 @@ public class WifiApManager {
 
     /**
      * Gets the Wi-Fi enabled state.
-     * @return {@link WIFI_AP_STATE}
+     * @return {@link com.getblee.blee.util.WIFI_AP_STATE}
      * @see #isWifiApEnabled()
      */
     public WIFI_AP_STATE getWifiApState() {

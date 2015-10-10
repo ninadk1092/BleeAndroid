@@ -2,7 +2,7 @@ package com.getblee.blee;
 
 import android.os.Bundle;
 import android.os.Handler;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -17,7 +17,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 
-public class ServerActivity extends ActionBarActivity {
+public class ServerActivity extends AppCompatActivity {
 
     private ServerSocket serverSocket;
     Handler updateConversationHandler;

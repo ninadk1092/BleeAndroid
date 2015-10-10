@@ -12,12 +12,13 @@
         android:icon="@drawable/blee_logo"
         android:label="Blee"
         android:theme="@style/AppTheme" >
+
         <activity
-            android:name="com.getblee.blee.MainActivity"
+            android:name=".HomeActivity"
+            android:configChanges="keyboardHidden|orientation"
             android:icon="@drawable/blee_logo"
-            android:label="Blee"
-            android:screenOrientation="portrait"
-            android:configChanges="keyboardHidden|orientation">
+            android:label="@string/title_activity_home"
+            android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -25,22 +26,31 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.getblee.blee.ServerActivity"
+            android:name=".MainActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:icon="@drawable/blee_logo"
+            android:label="Blee"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ServerActivity"
             android:icon="@drawable/blee_logo"
             android:label="@string/title_activity_server"
-            android:parentActivityName="com.getblee.blee.MainActivity"
+            android:parentActivityName=".MainActivity"
             android:screenOrientation="portrait" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.getblee.blee.MainActivity" />
         </activity>
         <activity
-            android:name="com.getblee.blee.GroupActivity"
+            android:name=".GroupActivity"
             android:label="@string/title_activity_group" >
         </activity>
+        <!--
         <activity android:name="com.android.music.MediaPlaybackActivity">
 
         </activity>
+        -->
     </application>
 
 </manifest>

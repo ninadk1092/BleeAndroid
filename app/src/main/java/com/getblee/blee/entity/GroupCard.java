@@ -1,17 +1,16 @@
-package com.getblee.blee;
+package com.getblee.blee.entity;
 
-import android.content.ComponentName;
 import android.content.Context;
-import android.content.Intent;
 import android.media.MediaPlayer;
-import android.net.Uri;
 import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import java.io.File;
+import com.getblee.blee.GroupActivity;
+import com.getblee.blee.R;
+import com.getblee.blee.thread.ClientThread;
 
 import at.markushi.ui.CircleButton;
 import it.gmariotti.cardslib.library.internal.Card;
@@ -70,7 +69,7 @@ public class GroupCard extends Card {
             public void onClick(View v) {
                 String memberList=members.substring(1,members.length()-1);
                 for (String member:memberList.split(", ")) {
-                    String IP=GroupActivity.RARP(member);
+                    String IP= GroupActivity.RARP(member);
                     Log.d("RingRing trying this device", IP + " " + member);
                     if(!IP.equals("")) {
                         Log.d("RingRing", IP + " " + member);

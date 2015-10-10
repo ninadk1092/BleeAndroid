@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <solid
+        android:color="@color/circular_progress_default_background"/>
+
+    <size
+        android:width="@dimen/circular_progress_size"
+        android:height="@dimen/circular_progress_size"/>
+</shape>
