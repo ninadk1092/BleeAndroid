@@ -7,10 +7,12 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 import java.net.ServerSocket;
@@ -114,8 +116,8 @@ public class ServerActivity extends ActionBarActivity {
             try {
 
                 Log.d("Ring device", "Some device connected to this");
-                //this.input = new BufferedReader(new InputStreamReader(this.clientSocket.getInputStream()));
-
+                this.input = new BufferedReader(new InputStreamReader(this.clientSocket.getInputStream()));
+                Toast.makeText(getApplicationContext(),"Fire",Toast.LENGTH_SHORT).show();
 
             } catch (Exception e) {
                 e.printStackTrace();

@@ -50,6 +50,9 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        Intent intent = new Intent(this, ServerActivity.class);
+        startActivity(intent);
+
         selectionFlag=0;
         groupUserList=new ArrayList<String>();
         buttonPanel=(LinearLayout) this.findViewById(R.id.create_group_layout);
